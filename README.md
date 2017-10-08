@@ -1,4 +1,4 @@
-# IOTA Javascript Library
+# IOTA Javascript Library - Bernat's Fork
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/iotaledger/iota.lib.js/master/LICENSE) [![Build Status](https://travis-ci.org/iotaledger/iota.lib.js.svg?branch=master)](https://travis-ci.org/iotaledger/iota.lib.js) [![dependencies Status](https://david-dm.org/iotaledger/iota.lib.js/status.svg)](https://david-dm.org/iotaledger/iota.lib.js)  [![devDependencies Status](https://david-dm.org/iotaledger/iota.lib.js/dev-status.svg)](https://david-dm.org/iotaledger/iota.lib.js?type=dev) [![NSP Status](https://nodesecurity.io/orgs/iota-foundation/projects/7c0214b5-e36a-4178-92bc-164c536cfd6c/badge)](https://nodesecurity.io/orgs/iota-foundation/projects/7c0214b5-e36a-4178-92bc-164c536cfd6c)
 
